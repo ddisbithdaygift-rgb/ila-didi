@@ -62,7 +62,7 @@ const Gallery = () => {
               rel="noopener noreferrer"
               className="inline-block text-pink-500 font-semibold underline text-lg mb-4"
             >
-              📸 View the full Memory Lane photo album[link]
+              📸 View the full Memory Lane photo album
             </a>
           </div>
 
