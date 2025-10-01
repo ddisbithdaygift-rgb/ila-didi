@@ -56,7 +56,7 @@ const Favorites = () => {
                 </li>
                 <li className="flex items-center gap-3">
                   <span className="text-2xl">🍝</span>
-                  <span className="text-lg">Spaghetti</span>
+                  <span className="text-lg">Swaghetty</span>
                 </li>
               </ul>
             </Card>

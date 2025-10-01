@@ -86,7 +86,7 @@ const Index = () => {
                   <li>🥞 Dosa</li>
                   <li>🌰 Makhane</li>
                   <li>🎈 Golgappe</li>
-                  <li>🍝 Spaghetti</li>
+                  <li>🍝 Swaghettye</li>
                 </ul>
               </div>
             </div>

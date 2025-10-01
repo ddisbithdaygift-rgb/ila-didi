@@ -18,14 +18,14 @@ const Guestbook = () => {
   const [messages, setMessages] = useState<Message[]>([
     {
       id: 1,
-      name: "Mom & Dad",
-      message: "Happy birthday to our precious daughter! We are so proud of the amazing person you've become. May this year bring you endless joy and success. Love you always! ❤️",
+      name: "muhammed janis av",
+      message: "Happy birthday to my precious didi! i am so proud of the amazing person you've become. May this year bring you endless joy and success. Love you always! ❤️",
       timestamp: "2 days ago",
     },
     {
       id: 2,
-      name: "Best Friend",
-      message: "Happy Birthday to the most amazing friend! Thank you for always being there, for the laughs, the late-night talks, and all the memories we've created. Here's to many more adventures together! 🎉",
+      name: "firse me hi aapka bai 😉",
+      message: "Happy Birthday to the most amazing didi! Thank you for always being there, for the laughs, the late-night talks, and all the memories we've created. Here's to many more adventures together! 🎉",
       timestamp: "1 day ago",
     },
   ]);

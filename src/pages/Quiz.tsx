@@ -21,8 +21,8 @@ const questions: Question[] = [
   },
   {
     question: "Which hobby does Ila Didi enjoy?",
-    options: ["Painting", "Playing Chess", "Dancing", "Cooking"],
-    correct: 1,
+    options: ["Painting", "Dancing", "Playing Chess", "Cooking"],
+    correct: 2,
   },
   {
     question: "What is one of Ila Didi's favorite foods?",
@@ -31,14 +31,19 @@ const questions: Question[] = [
   },
   {
     question: "What does Ila Didi love watching?",
-    options: ["K-dramas", "Anime", "Reality Shows", "Documentaries"],
-    correct: 1,
+    options: ["K-dramas", "Reality Shows", "Anime", "Documentaries"],
+    correct: 2,
   },
   {
     question: "What is one of our inside jokes?",
     options: ["Vampire", "Zombie", "Werewolf", "Ghost"],
     correct: 0,
   },
+ {
+  question: "Who is Surajit Roy to Didi? 😏?",
+   options: ["fiend", "colligue", "neibhour", "didi ka special some one"],
+   correct: 3,
+ },
 ];
 
 const Quiz = () => {

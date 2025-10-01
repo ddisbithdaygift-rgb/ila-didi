@@ -23,31 +23,37 @@ const Letter = () => {
               </p>
 
               <p className="text-lg leading-relaxed mb-6">
-                As I sit down to write this letter, I'm flooded with so many memories and emotions. 
-                Where do I even begin to tell you how much you mean to me?
+               As I sit here creating this website for you, my heart is filled with so much love
+                 and gratitude.You are not just my older sister - you are my mentor, my guide, and
+                  truly one of the most amazing people I know.
               </p>
 
               <p className="text-lg leading-relaxed mb-6">
-                Do you remember when we first met in the Wee life group? You were my mediator then 🤭, 
-                and from that moment, you've been so much more than just my Didi. You've been my guide, 
-                my friend, my confidant, and sometimes my favorite person to annoy (I know you love it! 😄).
+                I still remember when I first joined your group in weelife, and you were my
+                 mediator. You made me feel so welcome and comfortable. That's just who you
+                  are - always looking out for others, always making sure everyone feels included
+                   and loved.
               </p>
 
               <p className="text-lg leading-relaxed mb-6">
-                I still can't forget that time when you made me so emotional after I got my job, 
-                telling me you'd take me out to celebrate. That moment meant the world to me. 
-                It showed me how much you care, how you celebrate my victories as if they were your own.
+                And that time when I got emotional after you got your job, promising to take me out
+                 to celebrate - that moment showed me how much you care about my happiness .
+                  You've always been my biggest cheerleader, celebrating my victories as if they were your own.
               </p>
 
               <p className="text-lg leading-relaxed mb-6">
-                Your personality is truly one-of-a-kind. You're funny and outgoing, yet kind and thoughtful. 
-                You're adventurous and bold, but also sweet and hardworking. Watching you pursue your passions - 
-                whether it's watching anime, playing chess, or learning something new - inspires me every day.
+                Your personality is absolutely beautiful, Didi. You're funny and outgoing, kind and
+                 thoughtful, sweet and hardworking person. You have this amazing ability to make 
+                 everyone around you smile. Whether you're watching your favorite anime, playing chess 
+                 (and probably winning!), or just doing your favorite thing - "mujhe pareshan karna" 😄
+                  - you bring so much joy to my lives.
               </p>
 
               <p className="text-lg leading-relaxed mb-6">
-                And let's not forget our inside jokes! From vampire references to the whole bodyguard thing, 
-                and of course Surajit Roy Didi ka 😏😏 - these silly moments we share make our bond so special and unique.
+               I love how you're always eager to learn something new. Your curiosity and enthusiasm for 
+                   life inspire me every day. And yes, even when you're being my "second monther" or 
+                   when we joke about you being a "vampire" 🧛‍♀️, you make every moment memorable and fun.
+                   and here is some of our memories
               </p>
 
               <p className="text-lg leading-relaxed mb-6">
@@ -71,7 +77,7 @@ const Letter = () => {
               </p>
 
               <p className="text-lg leading-relaxed font-semibold">
-                Your loving sibling ❤️
+                Your loving brother ❤️
               </p>
             </div>
           </Card>
