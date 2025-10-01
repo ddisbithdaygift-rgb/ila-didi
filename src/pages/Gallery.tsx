@@ -58,6 +58,7 @@ const Gallery = () => {
           <div className="mt-12 text-center">
             <p className="text-muted-foreground italic">
               💝 Add your own photos to make this gallery even more special!
+              https://photos.app.goo.gl/Q7Jvvc4g8taRjBz18
             </p>
           </div>
         </div>
