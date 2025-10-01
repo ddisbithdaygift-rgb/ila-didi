@@ -56,9 +56,19 @@ const Gallery = () => {
           </div>
 
           <div className="mt-12 text-center">
+            <a
+              href="https://photos.app.goo.gl/Q7Jvvc4g8taRjBz18"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block text-pink-500 font-semibold underline text-lg mb-4"
+            >
+              📸 View the full Memory Lane photo album
+            </a>
+          </div>
+
+          <div className="mt-6 text-center">
             <p className="text-muted-foreground italic">
               💝 Add your own photos to make this gallery even more special!
-              https://photos.app.goo.gl/Q7Jvvc4g8taRjBz18
             </p>
           </div>
         </div>
